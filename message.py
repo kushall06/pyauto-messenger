@@ -1,11 +1,11 @@
-Python To Automate Messaging Apps
-Author:Anonymous Noble
+#Python To Automate Messaging Apps
+#Author:Anonymous Noble
 
     
 import pyautogui
 import time
 
-time.sleep(5)
+time.sleep(3)
 
 text='Your Text Here'
 
